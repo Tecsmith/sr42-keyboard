@@ -1,0 +1,6 @@
+[submodule "pcb"]
+	path = pcb
+	url = git@github.com:Tecsmith/sr42-keyboard-pcb.git
+[submodule "case"]
+	path = case
+	url = git@github.com:Tecsmith/sr42-keyboard-case.git
